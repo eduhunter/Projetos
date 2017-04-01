@@ -1,3 +1,0 @@
-# encoding: pt-br
-
-# Teste
