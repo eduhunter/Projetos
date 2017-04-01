@@ -1,0 +1,1 @@
+require 'step_definitions/Google/Pesquisa/Pesquisa'
